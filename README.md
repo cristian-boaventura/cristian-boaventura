@@ -13,8 +13,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 🔭 I’m working on
 
 -   <a href="https://github.com/cristian-boaventura/Dressify">
-    Dressify
-  </a>, a React-Redux based Ecommerce.
+    Dressify</a>, a React-Redux based Ecommerce.
 
 ### 🌱 I’m learning
 
