@@ -32,7 +32,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://cristianboaventura.com/">
-    <img src="https://media-exp1.licdn.com/dms/image/D4D2DAQENKVjP_maaGw/profile-treasury-image-shrink_480_480/0/1663703224491?e=1664308800&v=beta&t=JOrslzm08S4CyTNOGPjUGJLZ8_jDbuqQoxBun9D8PIY" alt="Twitter"/>
+    🌐 Portfolio Website
   </a>
 </div>
 
