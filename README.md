@@ -21,19 +21,14 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Integrating Blockchain functionality to web applications
-
 ### 📫 How to reach me
-
 
   <a href="https://www.linkedin.com/in/cristianboaventura/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <a href="https://cristianboaventura.com/">
-    🌐 Portfolio Website
+    🌐 My Portfolio Website
   </a>
 
 
