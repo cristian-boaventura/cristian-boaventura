@@ -1,4 +1,44 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+
+**I love working with**
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</div>
+
+### 🔭 I’m working on
+
+- [Dressify](dressify.netlify.app), a React-Redux based Ecommerce.
+
+### 🌱 I’m learning
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+</div>
+
+### 🤔 I’m looking for help with
+
+- Integrating Blockchain functionality to web applications
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/cristianboaventura/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://cristianboaventura.com/">
+    <img src="https://media-exp1.licdn.com/dms/image/D4D2DAQENKVjP_maaGw/profile-treasury-image-shrink_480_480/0/1663703224491?e=1664308800&v=beta&t=JOrslzm08S4CyTNOGPjUGJLZ8_jDbuqQoxBun9D8PIY" alt="Twitter"/>
+  </a>
+</div>
+
+### ⚡ Fun fact
+
+I started learning React before JavaScript and CSS.
 
 <!--
 **cristian-boaventura/cristian-boaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
