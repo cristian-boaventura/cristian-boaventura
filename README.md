@@ -27,7 +27,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 ### 📫 How to reach me
 
-<div display="flex">
+<div display="flex" align-items="center">
   <a href="https://www.linkedin.com/in/cristianboaventura/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
