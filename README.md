@@ -10,15 +10,13 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
-### 🔭 I’m working on
+<!-- ### 🔭 I’m working on
 
--   <a href="https://github.com/cristian-boaventura/Dressify">
-    Dressify</a>, a React-Redux based Ecommerce.
+-   Trax, a Music App built on Next.js. -->
 
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
 </div>
 
@@ -27,10 +25,10 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <a href="https://www.linkedin.com/in/cristianboaventura/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
+<!-- 
 ### ⚡ Fun fact
 
-I started learning React before JavaScript and CSS.
+I started learning React before JavaScript and CSS. -->
 
 <!--
 **cristian-boaventura/cristian-boaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
