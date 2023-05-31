@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats-eight-puce-73.vercel.app/api/top-langs?username=cristian-boaventura&show_icons=true&locale=en&layout=compact" alt="cristianboaventura" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristian-boaventura&show_icons=true&locale=en" alt="cristianboaventura" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristian-boaventura&" alt="cristianboaventura" /></p>
