@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristian-boaventura&rank=A,AA,AAA,S,SS,SSS" alt="cristianboaventura" /></a> </p>
 
-- 🛠 I’m currently developing **Project Management App**
+- 🛠 I’m currently developing **Lucio Fernandez Hospital's Cooperative Website**
 
-- 🌱 I’m currently learning **Next.js updates, AWS Services**
+- 🌱 I’m currently learning **Nestjs**
 
 - 🚩 I’m developing next **My New Portfolio**
 
-- 💬 Ask me about **JavaScript, React, CSS, Redux Toolkit**
+- 💬 Ask me about **JavaScript, React, Vue, Redux Toolkit**
 
 <h3 align="left">Languages and Tools:</h3>
 
