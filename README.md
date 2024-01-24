@@ -11,7 +11,7 @@
 
 - 🚩 I’m developing next **My New Portfolio**
 
-- 💬 Ask me about **JavaScript, SQL, CSS **
+- 💬 Ask me about **JavaScript, SQL, CSS**
 
 <h3 align="left">Languages and Tools:</h3>
 
