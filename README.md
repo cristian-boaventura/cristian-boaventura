@@ -7,11 +7,11 @@
 
 - 🛠 I’m currently developing **Lucio Fernandez Hospital's Cooperative Website**
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **Python**
 
 - 🚩 I’m developing next **My New Portfolio**
 
-- 💬 Ask me about **JavaScript, React, Vue, Redux Toolkit**
+- 💬 Ask me about **JavaScript, SQL, CSS **
 
 <h3 align="left">Languages and Tools:</h3>
 
